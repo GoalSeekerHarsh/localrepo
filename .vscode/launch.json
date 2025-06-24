@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/harshgupta/Documents/DSAcourse.cpp/lecture1/localrepo",
+      "program": "/Users/harshgupta/Documents/DSAcourse.cpp/lecture1/localrepo/build/Debug/outDebug"
+    }
+  ]
+}
